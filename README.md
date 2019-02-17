@@ -1,2 +1,2 @@
-# the_variant_triangle
-A moving triangle that variates in every aspects... from it's coordinates to it's motion... in random...
+# virtual_reality
+finding reality in the virtual world of p5.js
